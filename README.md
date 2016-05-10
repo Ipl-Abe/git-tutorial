@@ -1,5 +1,5 @@
 
 #Git　チュートリアル
 
- - feature-A
+
 
